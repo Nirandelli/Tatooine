@@ -31,9 +31,9 @@
 ```
 Mater Reset
 Master Push
-Push sin commit
+Push sin committ
 ```
 **A que año debía volver Marty McFly para reestablecer la linea de tiempo?**
 ```
-1985?
+1985??
 ```
