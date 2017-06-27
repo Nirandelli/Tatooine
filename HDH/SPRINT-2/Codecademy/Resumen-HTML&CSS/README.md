@@ -34,7 +34,10 @@ Y muchas propiedades mas.
 ```
 
 ```
-En lo personal me gusto el curso, me es de mucha utilidad las eqtiquteas y propiedades que se mencionaron, hubiera algunas propiedades que no conocia, y que ahora puedo implementar en mis proyectos.
+En lo personal me gusto el curso, me es de mucha utilidad las
+etiquetas y propiedades que se mencionaron, hubiera algunas
+propiedades que no conocia, y que ahora puedo implementar en mis
+proyectos.
 
 
 ```
