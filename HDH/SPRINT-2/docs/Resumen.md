@@ -46,7 +46,8 @@ No hubo ninguna parte aburrida.
 1. Browser:
 Son aplicaciones de software de escritorio que permite navegar por la web.
 2. DNS:
-Mantienen un registro de los nombres de dominio y las direcciones IP de todos los equipos de la Internet.
+Mantienen un registro de los nombres de dominio y las direcciones IP de todos los equipos de la
+   Internet.
 3. Domain:
 Es un acceso directo a un ordenador que esté conectado a Internet.
 4. Internet:
@@ -54,11 +55,12 @@ Redess Interconectadas.
 5. IP address:
 Es la dirección de su ordenador en Internet. Se ve algo como esto: 192.168.0.1.
 6. Web app:
-
+Es una versión de la web optimizada para su perfecta visualización en dispositivos móviles a la que se accede a través de una URL.
 7. Web server:
 Es un equipo que se puede acceder a través de Internet.
 8. Website:
 Es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio.
 9. World wide web:
-Es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles vía Internet.
+Es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles
+ vía Internet.
 ```
