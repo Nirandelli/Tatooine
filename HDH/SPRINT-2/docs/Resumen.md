@@ -47,7 +47,7 @@ No hubo ninguna parte aburrida.
 Son aplicaciones de software de escritorio que permite navegar por la web.
 2. DNS:
 Mantienen un registro de los nombres de dominio y las direcciones IP de todos los equipos de la
-   Internet.
+Internet.
 3. Domain:
 Es un acceso directo a un ordenador que esté conectado a Internet.
 4. Internet:
@@ -55,7 +55,8 @@ Redess Interconectadas.
 5. IP address:
 Es la dirección de su ordenador en Internet. Se ve algo como esto: 192.168.0.1.
 6. Web app:
-Es una versión de la web optimizada para su perfecta visualización en dispositivos móviles a la que se accede a través de una URL.
+Es una versión de la web optimizada para su perfecta visualización en dispositivos móviles
+ a la que se accede a través de una URL.
 7. Web server:
 Es un equipo que se puede acceder a través de Internet.
 8. Website:
