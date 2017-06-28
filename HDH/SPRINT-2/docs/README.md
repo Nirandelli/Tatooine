@@ -21,13 +21,16 @@
 
 
 ```
-Esta sera la primera sección que vera el usuario aqui podra visualizar un SliderShow que mostrara varia imagenes de productos.
+Esta sera la primera sección que vera el usuario aqui podra visualizar un SliderShow que mostrara
+varia imagenes de productos.
 
 Asi mismo podra direccionarse en cualquier pestaña que desee.
 
-De igual forma visualizara productos con una breve descripción, si desea saber mas del productos sera necesario darle clic en el boton leer mas.
+De igual forma visualizara productos con una breve descripción, si desea saber mas del productos
+sera necesario darle clic en el boton leer mas.
 
-Si el usuario deseea comprar sera necesario iniciar sesión y si no tuviera alguna cuenta, tendra que registrarse.
+Si el usuario deseea comprar sera necesario iniciar sesión y si no tuviera alguna cuenta,
+ tendra que registrarse.
 ```
 
 
@@ -124,7 +127,8 @@ En esta sección el usuario podra Iniciar sesión si desea comprar.
 
 
 ```
-En esta sección el usuario podra visulaizar sus productos, de igual forma podra eliminar o proceder a ralizar sus compra.
+En esta sección el usuario podra visulaizar sus productos, de igual forma podra eliminar o proceder
+a ralizar su compra.
 ```
 
 
@@ -137,5 +141,6 @@ En esta sección el usuario podra visulaizar sus productos, de igual forma podra
 
 
 ```
-En esta sección el usuario podra enviar un mensaje si desea contactarse con la empresa, asi mismo podra visualizar sus números telefonicos y la dirección de la misma.
+En esta sección el usuario podra enviar un mensaje si desea contactarse con la empresa, asi mismo
+podra visualizar sus números telefonicos y la dirección de la misma.
 ```
