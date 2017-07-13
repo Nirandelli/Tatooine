@@ -1,5 +1,7 @@
-for (var i = 2; i < process.argv.length; i++) {
- process.argv[i] ;
+var array= 0;
 
-  console.log(process.argv[i]);
+for (var i = 2; i < process.argv.length; i++) {
+      array += Number(process.argv[i]);
+
 }
+  console.log(array);
