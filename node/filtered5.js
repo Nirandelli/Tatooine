@@ -19,7 +19,6 @@ fs.readdir(process.argv[2], function(err, files){
   })
 
 
-
   // var filtered = directory.filter(function (extension){
   //   return extension= directory==='md';
   //
