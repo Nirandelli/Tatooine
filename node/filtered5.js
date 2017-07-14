@@ -1,23 +1,27 @@
 var fs= require('fs');
+const path=require('path');
 var directory;
 var filtered;
+var filtracion;
 fs.readdir(process.argv[2], function(err, files){
   if (err){
     return console.error(err);
   }
   directory= files;
-  filtered= directory.filter(function filtro(fil){
-    return fil = '.md';
-  })
-      console.log(fil);
-      //console.log(directory);
-})
-    console.log(filtered);
+  filtered = path.extname('LICENCE.md');
 
-// var numbers= [1,2,4,5,6,7,8,9,10];
-// var filtered= numbers.filter(
-//   function evenNumbers(number){
-//   return number % 2 === 0;
-//   console.log(number);
-// });
-//   console.log(filtered);
+ filtracion = directory.filter(function (extension){
+   return extension=== directory;
+
+     console.log(filtracion);
+  })
+  console.log(directory);
+  })
+
+
+
+  // var filtered = directory.filter(function (extension){
+  //   return extension= directory==='md';
+  //
+  //   console.log(extension);
+  // })
